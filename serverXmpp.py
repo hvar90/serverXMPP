@@ -17,7 +17,7 @@ root.addHandler(ch)
  
 SERVER = 'gcm.googleapis.com'
 PORT = 5235
-USERNAME = "11178319894"
+USERNAME = ""
 PASSWORD = ""
 REGISTRATION_ID = ""
 
